@@ -1,28 +1,35 @@
-
-<a href="https://github.com/EagleCyber-74"> 
- <img align="center" src="./images/header.png" width="100%">    
-</a>
+## ★ Github data ★
 <p align="center">
 
- 
- <!--Header-->
+  <a href="https://github.com/EagleCyber74"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github+EagleCyber74+^_^" alt="UwU">
+  
+>
+> *Number of visitors*
+* **Visitor Github EagleCyber74**
 
+     ![DUMAI-991](https://komarev.com/ghpvc/?username=EagleCyber74&color=blue)
+>
 
-<br/>
-<a href="https://github.com/EagleCyber-74"> 
- <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
-</a>
-<p align="center">
- 
-<a href="https://github.com/EagleCyber-74"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Walid+BOUSSOU;Specialized+Master's+Student+%7C+Computer+Science+Engineering+;Full+Stack+Developer+%7C+J2EE+with+Angular+%7C+MERN+%7C+Laravel+%7C+Python; ; " alt="Typing SVG" />
-</a>
+### About Me
 
-<br/>
+ - 👨‍🦱 My name is `EagleCyber74`
+ - 🏠 Live in `Situbondo, Jawa Timur`
+ - 👶🏻 Born in `Jawa Timur, Indonesia`
+ - 🏫 School in `Smpn 1 Sumbermalang`
+ - 🌐 Language
+   - 🇮🇩 Indonesian
+   - 🇮🇩 Locare Empire
+   - 🇮🇩 Jawa Empire
 
+<a href="https://saweria.co/donate/EagleCyber74" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For EagleCyber74" height="30" width="120"></a>
 
-
-
+> *Sosial Media EagleCyber-74*
+> 
+[![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/proseccuces)
+[![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285648488655?text=Asalamualaikum+bang)
+[![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=Brighwhite&labelColor=white)](https://t.me/@Python3xJava)
+[![](https://img.shields.io/badge/YouTube-white?logo=YouTube&logoColor=Brighred&labelColor=red)](https://youtube.com/@EagleCyber74)
+[![](https://img.shields.io/badge/Facebook-white?logo=Facebook&logoColor=Brighblue&labelColor=blue)](https://facebook.com/Cebokruwek)<br>
 
 <!--Intro-->
 
