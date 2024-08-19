@@ -33,7 +33,7 @@
 
 <!--Intro-->
 
-  href="https://github.com/EagleCyber-74"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/EagleCyber-74"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=EagleCyber-74&style=for-the-badge&color=blue"></a>
+  src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/EagleCyber-74"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=EagleCyber-74&style=for-the-badge&color=blue"></a>
 
 
 
@@ -114,12 +114,6 @@
 <a href="https://www.linkedin.com/in/EagleCyber-74/details/certifications" title="💻 My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
 <a href="https://www.linkedin.com/in/EagleCyber-74/details/education" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
  
-</p>
-</div>
-
-
-
-<a href="https://github.com/EagleCyber-74">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
