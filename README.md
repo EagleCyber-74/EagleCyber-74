@@ -1,7 +1,7 @@
-## ★ Github data ★
+## ★ GITHUB DATA ★
 <p align="center">
 
-  <a href="https://github.com/EagleCyber74"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github+EagleCyber74+^_^" alt="UwU">
+  <a href="https://github.com/EagleCyber74"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github+EagleCyber74+" alt="UwU">
   
 >
 > *Number of visitors*
@@ -33,8 +33,7 @@
 
 <!--Intro-->
 
- 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/EagleCyber-74"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/EagleCyber-74"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=EagleCyber-74&style=for-the-badge&color=blue"></a>
+  href="https://github.com/EagleCyber-74"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/EagleCyber-74"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=EagleCyber-74&style=for-the-badge&color=blue"></a>
 
 
 
