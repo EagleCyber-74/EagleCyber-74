@@ -132,7 +132,7 @@
 <h3 align="center">
  <a href="https://github.com/EagleCyber-74">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/walidbosso">
+    </a> <a href="https://github.com/EagleCyber74">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 【﻿Ｓｔａｔｓ】 
 
@@ -147,12 +147,12 @@
 
 <p align="center">
  <br/>
-<a href="https://github.com/EagleCyber-74"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<a href="https://github.com/EagleCyber-74"><img align="center" width ="%" src="https://img.shields.io/github/followers/EagleCyber74?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
 
 
 
 <p align="center"> 
-<a href="https://user-badge.committers.top/morocco/walidbosso"> 
+<a href="https://user-badge.committers.top/morocco/EagleCyber74"> 
 <!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
 </a></p >
 
@@ -224,39 +224,6 @@
 
 
 <!--More REPOSITORIES-->
-
-
-<details open align="center">
-  <summary>📁 More Repositories</summary>
-  <br>
-
-  <p align="center">
-
-[![SpringBoot-Angular-TrainingCenter-Management Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot-Angular-TrainingCenter-Management\&theme=algolia)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
-[![SpringBoot_Football_Matches Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=SpringBoot_Football_Matches\&theme=algolia)](https://github.com/walidbosso/SpringBoot_Football_Matches)
-[![laravel Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Laravel_pharmacy_management\&theme=holi)](https://github.com/walidbosso/Laravel_pharmacy_management)
-[![Java-threads-udp-tcp-rmi-charts Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Java-threads-udp-tcp-rmi-charts\&theme=holi)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
-[![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
-[![Nodejs_playground Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Nodejs_playground\&theme=github_dark)](https://github.com/walidbosso/Nodejs_playground)
-[![walidbosso Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=walidbosso\&theme=holi)](https://github.com/walidbosso/walidbosso)
-[![CV_BOUSSOU_Walid Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=CV_BOUSSOU_Walid\&theme=holi)](https://github.com/walidbosso/CV_BOUSSOU_Walid)
-[![JavaScript Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=JavaScript_Projects_Clock_calc_todo_gallery_bgcolor\&theme=algolia)](https://github.com/walidbosso/JavaScript_Projects_Clock_calc_todo_gallery_bgcolor)
-[![ajax Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=AJAX-XML\&theme=algolia)](https://github.com/walidbosso/AJAX-XML)
-
-[![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=walidbosso&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=walidbosso)](https://github.com/walidbosso?tab=repositories&q=&type=&language=&sort=stargazers)
-
-[![Angular-login Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Angular-login\&theme=algolia)](https://github.com/walidbosso/Angular-login)
-[![MERN_Stack_BlogProject Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MERN_Stack_BlogProject\&theme=algolia)](https://github.com/walidbosso/MERN_Stack_BlogProject)
-[![MATLAB_Image_processing_app Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=MATLAB_Image_processing_app\&theme=holi)](https://github.com/walidbosso/MATLAB_Image_processing_app)
-[![Python-GUI Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python-GUI\&theme=holi)](https://github.com/walidbosso/Python-GUI)
-[![Python_People_tracking Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Python_tracking\&theme=github_dark)](https://github.com/walidbosso/Python_tracking)
-[![Data_mining Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=R_Data_mining\&theme=github_dark)](https://github.com/walidbosso/R_Data_mining)
-[![C_System_Manipulation Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=C_System_Manipulation\&theme=holi)](https://github.com/walidbosso/C_System_Manipulation)
-[![Selenium-Web-Testing-Trello Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Selenium-Web-Testing-Trello\&theme=holi)](https://github.com/walidbosso/Selenium-Web-Testing-Trello)  
-[![Android_Java_Projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=Android_Java_Projects\&theme=algolia)](https://github.com/walidbosso/Android_Java_Projects)
-[![React-native-projects Card](https://github-readme-stats.vercel.app/api/pin?username=walidbosso\&repo=React-native-projects\&theme=algolia)](https://github.com/walidbosso/React-native-projects)
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 <br/>
 
 
