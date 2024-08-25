@@ -10,20 +10,17 @@
 
 
 # About ME 💬 :
-
-### - I'm 17 years  old Machine Learning & Artificial Intelligence Enthusiast from indonesia. 
-
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
+- ✨ Dev website is here 
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ coding
 
 </br>
 </br>
@@ -31,7 +28,7 @@
 
 
 
-# BAHASA & TOOLS 👨‍💻 🛠:
+# TOOLS 👨‍💻 🛠:
 </br>
 
 <p align="center">
