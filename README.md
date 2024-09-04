@@ -8,15 +8,15 @@
 </br>
 </br>
 
-   ![My Image](eagle.jpg)
+   ![My Image](urinei.jpg)
 
 
-# About ME 💬 :
+### FOMO 😋
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
-- ✨ Dev website is here 
-- ✨ Generative Adversarial Networks
+### - Favorite :
+- ✨ skibdi toilet
+- ✨ kids negro 
 
 ### - Hobbies : 
 - ✨ Gaming Addict
@@ -30,7 +30,7 @@
 
 
 
-# TOOLS 👨‍💻 🛠:
+# TOOLS 🐧:
 </br>
 
 <p align="center">
@@ -66,11 +66,9 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:alokaja276@gmail.com">
+<a href="mailto:mysteriouseerineigmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/EagleCyber74/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.jng" />
 </br>
 </br>
 </br>
@@ -95,7 +93,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/EagleCyber-74/github-readme-stats"> 
+  <a href="https://github.com/MYSTERIOUS11URINEI/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
