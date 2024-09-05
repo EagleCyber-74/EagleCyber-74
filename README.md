@@ -8,7 +8,7 @@
 </br>
 </br>
 
-   ![My Image](urinei.jpg)
+   ![My Image](x.jpg)
 
 
 ### FOMO 😋
